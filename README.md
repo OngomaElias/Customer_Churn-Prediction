@@ -74,6 +74,122 @@ vscode, pandas, numpy, python, jupyter
 
 - Wrote a medium article and briefly described the process, findings and recommendations
 
+<!-- GETTING STARTED -->
 
-## Author
-Elias Ongoma
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Python
+
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+```sh
+  cd my-folder
+  git clone https://github.com/OngomaElias/Customer_Churn-Prediction
+```
+
+Change into the cloned repository
+
+```sh
+  cd Customer_Churn-Prediction
+  
+```
+
+Create a virtual environment
+
+```sh
+
+python -m venv env
+
+```
+
+Activate the virtual environment
+
+
+```sh
+    env/Scripts/activate
+```
+
+
+### Install
+
+Here, you need to recursively install the packages in the `requirements.txt` file using the command below 
+
+```sh
+   pip install -r requirements.txt
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+
+```sh
+    streamlit run 1_🏠_Home.py
+
+```
+
+
+
+<!-- AUTHOR -->
+
+## 👥 Authors <a name="authors"></a>
+
+🕵🏽‍♀️ **Elias Ongoma**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+
+  
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project kindly show some love, give it a 🌟 **STAR** 🌟
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank all the free available resource made available online
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
